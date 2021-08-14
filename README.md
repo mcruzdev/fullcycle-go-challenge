@@ -12,8 +12,12 @@
 
 ```docker build -t {{nome_imagem}} .```
 
-## 4 - Teste
+## 4 - Executando a imagem
 
 ```docker run {{nome_imagem}}```
 
 **Saída:** ``` Code.education Rocks!```
+
+## 5 - Verificando o tamanho da imagem
+
+```docker images | grep {{nome_imagem}}```
