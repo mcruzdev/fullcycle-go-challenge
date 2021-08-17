@@ -1,5 +1,8 @@
 # go-challenge
 
+## DockerHub Image:
+https://hub.docker.com/repository/docker/matheuscruzdev/go-challenge
+
 ## 1 - Clone o repositório
 
 ```git clone https://github.com/mcruzdev/go-challenge```
